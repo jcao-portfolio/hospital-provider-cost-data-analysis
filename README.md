@@ -33,3 +33,10 @@ This project analyzes **Medicare Hospital Provider Cost Report** data to uncover
 - /data/processed – ready for analysis
 - /notebooks – Jupyter files
 - /scripts – Python scripts
+
+## Getting Started
+Follow these steps to set up and run the project locally:  
+
+### 1. Clone the repository  
+```bash
+git clone https://github.com/jcao-portfolio/hospital-provider-cost-data-analysis.git
