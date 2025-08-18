@@ -1,6 +1,19 @@
 # 🏥 Hospital Provider Cost Report Data Analysis
+## Exploratory Data Analysis on Hospital Provider Cost from 2011 to 2022
 
 This project analyzes **Medicare Hospital Provider Cost Report** data to uncover insights into healthcare provider expenses, utilization patterns, and geographic disparities. The goal is to clean, validate, and visualize hospital cost data for meaningful healthcare analytics.
+
+## Background
+
+## Business Task
+
+## Business Questions
+### Key Insights
+- State-Level Trends: Certain states consistently report higher hospital costs, highlighting regional disparities in healthcare expenses.
+- Ownership Differences: Nonprofit hospitals generally report different cost structures compared to proprietary and government-owned facilities.
+- Service Utilization: Inpatient vs. outpatient service costs reveal variations in how hospitals allocate resources.
+- Time-Based Patterns: Year-over-year analysis shows shifts in hospital expenditures, potentially linked to policy changes or economic factors.
+- Data Quality Observations: Missing values and outliers are common in self-reported data, requiring robust cleaning and validation for accurate insights.
 
 ## Objectives
 - Data Cleaning & Preparation: Handle missing values, duplicates, and formatting issues to ensure reliable analysis.
@@ -20,12 +33,8 @@ This project analyzes **Medicare Hospital Provider Cost Report** data to uncover
 - Git & GitHub: Version control and project collaboration
 - CMS Medicare Cost Report Data: Public dataset used for analysis
 
-## Key Insights
-- State-Level Trends: Certain states consistently report higher hospital costs, highlighting regional disparities in healthcare expenses.
-- Ownership Differences: Nonprofit hospitals generally report different cost structures compared to proprietary and government-owned facilities.
-- Service Utilization: Inpatient vs. outpatient service costs reveal variations in how hospitals allocate resources.
-- Time-Based Patterns: Year-over-year analysis shows shifts in hospital expenditures, potentially linked to policy changes or economic factors.
-- Data Quality Observations: Missing values and outliers are common in self-reported data, requiring robust cleaning and validation for accurate insights.
+## Data Set
+The data set is publicly available on [CMS](https://data.cms.gov/provider-compliance/cost-report/hospital-provider-cost-report).
 
 ## Project folder structure:
 - /data/raw – untouched downloads
