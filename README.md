@@ -49,11 +49,11 @@ The Hospital Provider Cost Report dataset, published by CMS, contains annual sel
 The data set is publicly available on [CMS](https://data.cms.gov/provider-compliance/cost-report/hospital-provider-cost-report).
 
 ## Project folder structure:
-/data/raw – untouched downloads
-/data/interim – cleaned subsets
-/data/processed – ready for analysis
-/notebooks – Jupyter files
-/scripts – Python scripts
+- /data/raw – untouched downloads
+- /data/interim – cleaned subsets
+- /data/processed – ready for analysis
+- /notebooks – Jupyter files
+- /scripts – Python scripts
 
 ## Getting Started
 Follow these steps to set up and run the project locally:  
