@@ -1,0 +1,23 @@
+# --- Core Data Analysis ---
+pandas
+numpy
+scipy
+statsmodels
+
+# --- Visualization ---
+matplotlib
+seaborn
+plotly
+
+# --- Machine Learning ---
+scikit-learn
+
+# --- Jupyter Environment ---
+jupyter
+notebook
+ipykernel
+
+# --- Excel/CSV/Parquet Support ---
+openpyxl
+xlrd
+pyarrow
