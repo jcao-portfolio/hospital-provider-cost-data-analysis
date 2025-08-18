@@ -1,0 +1,38 @@
+CCN Facility Type Acronym,CCN Facility Type Description
+STH,Short-term (General and Specialty) Hospitals
+ORD,Reserved for hospitals participating in ORD demonstration project
+MCMC,Multiple Hospital Component in a Medical Complex (Numbers Retired)
+FQHC,Federally Qualified Health Centers
+ADH,Alcohol/Drug Hospitals (Numbers Retired)
+MAF,Medical Assistance Facilities
+CAH,Critical Access Hospitals
+CCMHC,Continuation of Community Mental Health Centers
+HOS,Hospices
+RNMHC,Religious Non-medical Health Care Institutions (formerly Christian Science Sanatoria (Hospital Services))
+LTCH,Long-Term Care Hospitals (Excluded from IPPS)
+HBRDF,Hospital-based Renal Dialysis Facilities
+IDRF,Independent Renal Dialysis Facilities
+ISPRDF,Independent Special Purpose Renal Dialysis Facility
+FTH,Formerly Tuberculosis Hospitals (Numbers Retired)
+RH,Rehabilitation Hospitals
+HHA,Home Health Agencies
+CCORF,Continuation of Comprehensive Outpatient Rehabilitation Facilities
+CH,Children’s Hospitals
+RHC,Continuation of Rural Health Clinics
+HBRDF,Hospital-based Satellite Renal Dialysis Facilities
+HBSRDF,Hospital-based Special Purpose Renal Dialysis Facility
+RHC,Rural Health Clinics (Free-standing)
+PH,Psychiatric Hospitals
+CORF,Comprehensive Outpatient Rehabilitation Facilities
+CMHC,Community Mental Health Centers
+CCORF,Continuation of Comprehensive Outpatient Rehabilitation Facilities
+CCMHC,Continuation of Community Mental Health Centers
+SNF,Skilled Nursing Facilities
+OPTS,Outpatient Physical Therapy Services
+NR,Numbers Reserved (formerly Christian Science Sanatoria (Skilled Nursing Services))
+CHHA,Continuation of Home Health Agencies
+RHC,Continuation of Rural Health Clinics (Provider-based)
+RHC,Continuation of Rural Health Clinics (Free-standing)
+HHA,Continuation of Home Health Agencies
+TC,Transplant Centers
+RFU,Reserved for Future Use
