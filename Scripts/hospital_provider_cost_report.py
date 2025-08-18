@@ -4,7 +4,7 @@ import glob
 import os
 
 # Folder where your CSV files are stored
-input_folder = "C:/Users/caoj/Downloads/Project"
+input_folder = "C:/Users/Jason/Documents/Documents/Projects/Hospital_Provider_Cost_Report/Data/raw/hospital_cost_reports_2011_2022"
 output_file = "hospital_provider_cost_output.csv"
 
 # Pattern to match files like CostReport_2011_Final.csv to CostReport_2022_Final.csv
