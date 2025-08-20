@@ -7,8 +7,6 @@ This project analyzes **Medicare Hospital Provider Cost Report** data to uncover
 ## Background
 The Hospital Provider Cost Report dataset, published by CMS, contains annual self-reported financial and utilization data from U.S. hospitals participating in Medicare. It includes information on hospital costs, revenues, ownership types, and patient statistics, making it a key resource for analyzing healthcare expenses, efficiency, and regional disparities.
 
-## Business Task
-
 ## Key Insights
 - State-Level Trends: Certain states consistently report higher hospital costs, highlighting regional disparities in healthcare expenses.
 - Ownership Differences: Nonprofit hospitals generally report different cost structures compared to proprietary and government-owned facilities.
