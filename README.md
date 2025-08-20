@@ -46,7 +46,7 @@ The Hospital Provider Cost Report dataset, published by CMS, contains annual sel
 ## Data Set
 The data set is publicly available on [CMS](https://data.cms.gov/provider-compliance/cost-report/hospital-provider-cost-report).
 
-## Project folder structure:
+## Folder Structure:
 - /data/raw – untouched downloads
 - /data/interim – cleaned subsets
 - /data/processed – ready for analysis
@@ -59,3 +59,8 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the repository  
 ```bash
 git clone https://github.com/jcao-portfolio/hospital-provider-cost-data-analysis.git
+```
+
+## Contact Information
+- LinkedIn: www.linkedin.com/in/jason-cao30
+- Email: jcao3030@gmail.com
