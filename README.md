@@ -43,8 +43,8 @@ The Hospital Provider Cost Report dataset, published by CMS, contains annual sel
 - Git & GitHub: Version control and project collaboration
 - CMS Medicare Cost Report Data: Public dataset used for analysis
 
-## Data Set
-The data set is publicly available on [CMS](https://data.cms.gov/provider-compliance/cost-report/hospital-provider-cost-report).
+## Data Source
+The data source is publicly available on [CMS](https://data.cms.gov/provider-compliance/cost-report/hospital-provider-cost-report).
 
 ## Folder Structure:
 - /data/raw – untouched downloads
