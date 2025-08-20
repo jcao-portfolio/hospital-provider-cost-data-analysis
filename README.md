@@ -26,6 +26,8 @@ The Hospital Provider Cost Report dataset, published by CMS, contains annual sel
 10. How does teaching hospital status affect finances?
 
 ## Objectives
+The objective of this study is to develop and showcase strong data analysis skills through a meaningful project addressing real-world healthcare data challenges. The insights derived from the analysis are intended to assist stakeholders in making informed decisions regarding hospital resource allocation, cost management, and regulatory oversight.
+
 - Data Cleaning & Preparation: Handle missing values, duplicates, and formatting issues to ensure reliable analysis.
 - Data Quality Checks: Identify outliers, validate data types, and confirm consistency across reporting periods.
 - Cost Trend Analysis: Explore hospital cost patterns across years, states, and provider types.
@@ -44,7 +46,11 @@ The Hospital Provider Cost Report dataset, published by CMS, contains annual sel
 - CMS Medicare Cost Report Data: Public dataset used for analysis
 
 ## Data Source
-The data source is publicly available on [CMS](https://data.cms.gov/provider-compliance/cost-report/hospital-provider-cost-report).
+This report provides an in-depth analysis of hospital provider enrollment and cost data obtained from the Provider Enrollment, Chain, and Ownership System (PECOS). Following the July 17, 2023 data refresh, the dataset was expanded to include additional provider types such as Critical Access Hospitals (CAH) and Rural Emergency Hospitals (REH), broadening the scope of the analysis.
+
+The Hospital Provider Cost Report dataset provides select measures from the hospital annual cost report. This data includes provider information such as facility characteristics, utilization data, cost and charges by cost center (in total and for Medicare), Medicare settlement data, and financial statement data organized by CMS Certification Number.
+
+The data is publicly available from the Centers for Medicare & Medicaid Services [CMS](https://data.cms.gov/provider-compliance/cost-report/hospital-provider-cost-report).
 
 ## Folder Structure:
 - /data/raw – untouched downloads
