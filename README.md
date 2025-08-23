@@ -13,17 +13,23 @@ The Hospital Provider Cost Report dataset, published by CMS, contains annual sel
 - Service Utilization: Inpatient vs. outpatient service costs reveal variations in how hospitals allocate resources.
 - Time-Based Patterns: Year-over-year analysis shows shifts in hospital expenditures, potentially linked to policy changes or economic factors.
 - Data Quality Observations: Missing values and outliers are common in self-reported data, requiring robust cleaning and validation for accurate insights.
+
 ### Business Questions
-1. Which states/regions have the highest number of hospital beds?
-2. How does hospital size (beds, employees) relate to net income?
-3. What is the cost-to-charge ratio across hospitals?
-4. How much uncompensated care is provided, and where is it concentrated?
-5. How do Medicaid and Medicare utilization differ across hospitals?
-6. Which hospitals/states have the highest DSH adjustments?
-7. Do urban vs. rural hospitals perform differently in net income/revenue?
-8. What is the inpatient vs. outpatient revenue mix?
-9. Which hospitals show financial distress (negative net income)?
-10. How does teaching hospital status affect finances?
+Financial Performance
+- How has hospital net income changed over time, both nationally and by state?
+- What is the average cost-to-charge ratio across hospitals, and which hospitals are outliers?
+- How has the cost-to-charge ratio evolved over the years?
+- How do urban vs. rural hospitals differ in financial performance trends?
+- What are the long-term trends in assets, liabilities, and fund balances?
+
+Capacity & Operations
+- Which states or counties have the highest hospital capacity in terms of beds and patient days?
+- How has staffing (FTE employees) changed relative to patient volume?
+
+Care Delivery & Equity
+- What are the trends in charity care and uncompensated care over time?
+- How much uncompensated care is provided by region or hospital type?
+- How do inpatient vs. outpatient revenues vary by hospital size and type?
 
 ## Objectives
 The objective of this study is to develop and showcase strong data analysis skills through a meaningful project addressing real-world healthcare data challenges. The insights derived from the analysis are intended to assist stakeholders in making informed decisions regarding hospital resource allocation, cost management, and regulatory oversight.
