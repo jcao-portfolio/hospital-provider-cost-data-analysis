@@ -1,5 +1,5 @@
 # 🏥 Hospital Provider Cost Report Data Analysis
-## Exploratory Data Analysis on Hospital Provider Cost Data
+## Exploratory Data Analysis on Hospital Provider Cost Reports
 
 ## General Overview
 This project analyzes **Medicare Hospital Provider Cost Report** data to uncover insights into healthcare provider expenses, utilization patterns, and geographic disparities. The goal is to clean, validate, and visualize hospital cost data for meaningful healthcare analytics.
@@ -14,7 +14,7 @@ The Hospital Provider Cost Report dataset, published by CMS, contains annual sel
 - Time-Based Patterns: Year-over-year analysis shows shifts in hospital expenditures, potentially linked to policy changes or economic factors.
 - Data Quality Observations: Missing values and outliers are common in self-reported data, requiring robust cleaning and validation for accurate insights.
 
-### Business Questions
+### Research Questions
 Financial Performance
 - How has hospital net income changed over time, both nationally and by state?
 - What is the average cost-to-charge ratio across hospitals, and which hospitals are outliers?
