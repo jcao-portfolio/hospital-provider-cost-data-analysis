@@ -65,14 +65,6 @@ The data is publicly available from the Centers for Medicare & Medicaid Services
 - /notebooks – Jupyter files
 - /scripts – Python scripts
 
-## Getting Started
-Follow these steps to set up and run the project locally:  
-
-### 1. Clone the repository  
-```bash
-git clone https://github.com/jcao-portfolio/hospital-provider-cost-data-analysis.git
-```
-
 ## Contact Information
 - LinkedIn: www.linkedin.com/in/jason-cao30
 - Email: jcao3030@gmail.com
